@@ -79,7 +79,11 @@ The focus of this repository is developing practical analyst-level SQL skills th
 
 # Dataset Used
 
-## sales.orders
+# Datasets Used
+
+## Dataset 1 - SQL Practice Schema
+
+### sales.orders
 - OrderID
 - ProductID
 - CustomerID
@@ -90,26 +94,43 @@ The focus of this repository is developing practical analyst-level SQL skills th
 - Quantity
 - Sales
 
-## sales.customers
+### sales.customers
 - CustomerID
 - FirstName
 - LastName
 - Country
 - Score
 
-## sales.products
+### sales.products
 - ProductID
 - Product
 - Category
 - Price
 
-## sales.employees
+### sales.employees
 - EmployeeID
 - FirstName
 - LastName
 - Department
 - Salary
 - ManagerID
+
+---
+
+## Dataset 2 - SQL_Datasets
+
+### Tables
+
+- calendar
+- customers
+- product_categories
+- product_subcategories
+- products
+- returns
+- sales_2015
+- sales_2016
+- sales_2017
+- territories
 
 ---
 
@@ -124,3 +145,34 @@ The focus of this repository is developing practical analyst-level SQL skills th
 # Learning Goal
 
 Building strong practical SQL and analytics skills for data analyst and business intelligence roles through intensive hands-on practice and structured problem solving.
+
+---
+
+# Current Progress
+
+Completed
+
+- Filtering and Sorting
+- CASE WHEN
+- Aggregations
+- HAVING
+- Conditional Aggregation
+- KPI Percentage Calculations
+
+Currently Learning
+
+- Business Reporting Patterns
+- Advanced Aggregations
+
+Upcoming Topics
+
+- Data Cleaning
+- Joins
+- Date Functions
+- Subqueries
+- CTE Pipelines
+- Window Functions
+- Ranking Functions
+- Running Totals
+- MoM Analysis
+- YoY Analysis
